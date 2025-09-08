@@ -1,0 +1,178 @@
+{
+  "question_number": 1061,
+  "matrix": {
+    "panel_1_1": {
+      "tool_config": {
+        "config_type": "out_in",
+        "objects": [
+          {
+            "shape": "pentagon",
+            "type": "pentagon",
+            "size": 0.7,
+            "color": 0,
+            "angle": 180
+          },
+          {
+            "shape": "square",
+            "type": "square",
+            "size": 0.3,
+            "color": 2,
+            "angle": -90
+          }
+        ]
+      }
+    },
+    "panel_1_2": {
+      "tool_config": {
+        "config_type": "out_in",
+        "objects": [
+          {
+            "shape": "pentagon",
+            "type": "pentagon",
+            "size": 0.6,
+            "color": 0,
+            "angle": 180
+          },
+          {
+            "shape": "pentagon",
+            "type": "pentagon",
+            "size": 0.3,
+            "color": 2,
+            "angle": -90
+          }
+        ]
+      }
+    },
+    "panel_1_3": {
+      "tool_config": {
+        "config_type": "out_in",
+        "objects": [
+          {
+            "shape": "pentagon",
+            "type": "pentagon",
+            "size": 0.8,
+            "color": 0,
+            "angle": 180
+          },
+          {
+            "shape": "hexagon",
+            "type": "hexagon",
+            "size": 0.3,
+            "color": 2,
+            "angle": -90
+          }
+        ]
+      }
+    },
+    "panel_2_1": {
+      "tool_config": {
+        "config_type": "out_in",
+        "objects": [
+          {
+            "shape": "pentagon",
+            "type": "pentagon",
+            "size": 0.6,
+            "color": 0,
+            "angle": 180
+          },
+          {
+            "shape": "square",
+            "type": "square",
+            "size": 0.8,
+            "color": 4,
+            "angle": 180
+          }
+        ]
+      }
+    },
+    "panel_2_2": {
+      "tool_config": {
+        "config_type": "out_in",
+        "objects": [
+          {
+            "shape": "pentagon",
+            "type": "pentagon",
+            "size": 0.8,
+            "color": 0,
+            "angle": 180
+          },
+          {
+            "shape": "pentagon",
+            "type": "pentagon",
+            "size": 0.8,
+            "color": 4,
+            "angle": 180
+          }
+        ]
+      }
+    },
+    "panel_2_3": {
+      "tool_config": {
+        "config_type": "out_in",
+        "objects": [
+          {
+            "shape": "pentagon",
+            "type": "pentagon",
+            "size": 0.7,
+            "color": 0,
+            "angle": 180
+          },
+          {
+            "shape": "hexagon",
+            "type": "hexagon",
+            "size": 0.8,
+            "color": 4,
+            "angle": 180
+          }
+        ]
+      }
+    },
+    "panel_3_1": {
+      "tool_config": {
+        "config_type": "out_in",
+        "objects": [
+          {
+            "shape": "pentagon",
+            "type": "pentagon",
+            "size": 0.8,
+            "color": 0,
+            "angle": 135
+          },
+          {
+            "shape": "pentagon",
+            "type": "pentagon",
+            "size": 0.4,
+            "color": 8,
+            "angle": -135
+          }
+        ]
+      }
+    },
+    "panel_3_2": {
+      "tool_config": {
+        "config_type": "out_in",
+        "objects": [
+          {
+            "shape": "pentagon",
+            "type": "pentagon",
+            "size": 0.7,
+            "color": 0,
+            "angle": 135
+          },
+          {
+            "shape": "hexagon",
+            "type": "hexagon",
+            "size": 0.4,
+            "color": 8,
+            "angle": -135
+          }
+        ]
+      }
+    },
+    "panel_3_3": {
+      "description": "MISSING - This is what we need to find",
+      "structure_type": "Unknown",
+      "shapes": []
+    }
+  }
+}

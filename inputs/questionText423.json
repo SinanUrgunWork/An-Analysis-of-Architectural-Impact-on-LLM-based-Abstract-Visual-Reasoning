@@ -1,0 +1,570 @@
+{
+  "question_number": 423,
+  "matrix": {
+    "panel_1_1": {
+      "tool_config": {
+        "config_type": "grid_3x3",
+        "objects": [
+          {
+            "shape": "circle",
+            "type": "circle",
+            "size": 0.5,
+            "color": 8,
+            "angle": 180
+          },
+          {
+            "shape": "hexagon",
+            "type": "hexagon",
+            "size": 0.7,
+            "color": 8,
+            "angle": -45
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          }
+        ]
+      }
+    },
+    "panel_1_2": {
+      "tool_config": {
+        "config_type": "grid_3x3",
+        "objects": [
+          {
+            "shape": "circle",
+            "type": "circle",
+            "size": 0.4,
+            "color": 1,
+            "angle": 0
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          }
+        ]
+      }
+    },
+    "panel_1_3": {
+      "tool_config": {
+        "config_type": "grid_3x3",
+        "objects": [
+          {
+            "shape": "hexagon",
+            "type": "hexagon",
+            "size": 0.3,
+            "color": 9,
+            "angle": 0
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          }
+        ]
+      }
+    },
+    "panel_2_1": {
+      "tool_config": {
+        "config_type": "grid_3x3",
+        "objects": [
+          {
+            "shape": "square",
+            "type": "square",
+            "size": 0.3,
+            "color": 9,
+            "angle": -135
+          },
+          {
+            "shape": "circle",
+            "type": "circle",
+            "size": 0.3,
+            "color": 9,
+            "angle": -45
+          },
+          {
+            "shape": "pentagon",
+            "type": "pentagon",
+            "size": 0.8,
+            "color": 9,
+            "angle": -45
+          },
+          {
+            "shape": "triangle",
+            "type": "triangle",
+            "size": 0.4,
+            "color": 9,
+            "angle": 45
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          }
+        ]
+      }
+    },
+    "panel_2_2": {
+      "tool_config": {
+        "config_type": "grid_3x3",
+        "objects": [
+          {
+            "shape": "square",
+            "type": "square",
+            "size": 0.4,
+            "color": 8,
+            "angle": -135
+          },
+          {
+            "shape": "square",
+            "type": "square",
+            "size": 0.3,
+            "color": 8,
+            "angle": 135
+          },
+          {
+            "shape": "square",
+            "type": "square",
+            "size": 0.3,
+            "color": 8,
+            "angle": 180
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          }
+        ]
+      }
+    },
+    "panel_2_3": {
+      "tool_config": {
+        "config_type": "grid_3x3",
+        "objects": [
+          {
+            "shape": "triangle",
+            "type": "triangle",
+            "size": 0.4,
+            "color": 1,
+            "angle": 0
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          }
+        ]
+      }
+    },
+    "panel_3_1": {
+      "tool_config": {
+        "config_type": "grid_3x3",
+        "objects": [
+          {
+            "shape": "pentagon",
+            "type": "pentagon",
+            "size": 0.6,
+            "color": 1,
+            "angle": 90
+          },
+          {
+            "shape": "square",
+            "type": "square",
+            "size": 0.4,
+            "color": 1,
+            "angle": 90
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          }
+        ]
+      }
+    },
+    "panel_3_2": {
+      "tool_config": {
+        "config_type": "grid_3x3",
+        "objects": [
+          {
+            "shape": "square",
+            "type": "square",
+            "size": 0.3,
+            "color": 9,
+            "angle": -90
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          },
+          {
+            "shape": "none",
+            "size": 0.5,
+            "color": 0,
+            "angle": 0,
+            "type": "none"
+          }
+        ]
+      }
+    },
+    "panel_3_3": {
+      "description": "MISSING - This is what we need to find",
+      "structure_type": "Unknown",
+      "shapes": []
+    }
+  }
+}

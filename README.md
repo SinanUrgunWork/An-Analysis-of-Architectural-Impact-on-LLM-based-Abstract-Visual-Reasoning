@@ -94,7 +94,7 @@ Files:
 git clone <repo-url>  
 cd <repo-name>  
 pip install -r requirements.txt
-
+```bash 
 
 ### 2. Configure API keys
 Create a `.env` file in the project root:

@@ -64,7 +64,7 @@ Files:
 
 ---
 
-## ⚙How It Works  
+## How It Works  
 
 1. **Input**    
    Place RPM puzzle descriptions (`questionText*.json`) in the `inputs/` directory.    

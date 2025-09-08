@@ -94,7 +94,7 @@ Files:
 git clone <repo-url>  
 cd <repo-name>  
 pip install -r requirements.txt
-           
+```
 
 ### 2. Configure API keys
 Create a `.env` file in the project root:
@@ -104,7 +104,7 @@ OPENAI_API_KEY=xxxx
 GEMINI_API_KEY=xxxx  
 ANTHROPIC_API_KEY=xxxx  
 GROQ_API_KEY=xxxx  
-
+```
 
 ### 3. Prepare input puzzles
 
@@ -121,26 +121,26 @@ python GPT_Single.py
 python LLAMA_Single.py  
 python GEMINI_Single.py  
 python CLAUDE_Single.py
-
+```
 #### Self-Reflection
 ```bash  
 python GPT_SelfReflection.py
 python LLAMA_SelfReflection.py
 python GEMINI_SelfReflection.py
 python CLAUDE_SelfReflection.py
-
+```
 #### Multi-Agent  
 ```bash  
 python GPT_MultiModel.py  
 python LLAMA_MultiModel.py  
 python CLAUDE_MultiModel.py  
 python GEMINI_MultiModel.py  
-
+```
 #### Embedding-based validation  
 ```bash    
 python GPT_Embedding.py  
 python LLAMA_Embedding.py  
 python GEMINI_Embedding.py  
 python CLAUDE_Embedding.py
-
+```
 

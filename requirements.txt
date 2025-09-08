@@ -1,0 +1,11 @@
+python-dotenv
+Pillow
+numpy
+scikit-learn
+regex
+# LLM API 
+openai
+anthropic
+google-generativeai
+groq
+

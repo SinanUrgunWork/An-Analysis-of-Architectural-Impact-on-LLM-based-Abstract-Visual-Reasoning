@@ -4,7 +4,7 @@ It was designed for systematic evaluation of **abstract visual reasoning** with 
 
 This work accompanies the experiments described in the paper:    
 **_"An Analysis of Architectural Impact on LLM-based Abstract Visual Reasoning: A Systematic Benchmark on RAVEN-FAIR"_**.    
-A preprint of the paper will be linked here once available.  
+[A preprint of the paper will be linked here once available.  ](https://arxiv.org/abs/2511.11916)
 
 ---
 
